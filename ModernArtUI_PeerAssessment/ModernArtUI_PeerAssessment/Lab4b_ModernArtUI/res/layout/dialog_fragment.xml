@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:layout_gravity="center" android:orientation="vertical"  >
+
+    <TextView
+        android:id="@+id/prompt" 
+		android:text="@string/dialog_prompt"
+        android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:layout_gravity="center"/>
+		
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:layout_gravity="center">
+		<Button
+			android:id="@+id/visitMoma"
+			android:text="@string/visit_moma"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.5"/>
+		<Button
+			android:id="@+id/cancel"
+			android:text="@string/not_now"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="0.5"/>
+	</LinearLayout>
+      
+</LinearLayout>
