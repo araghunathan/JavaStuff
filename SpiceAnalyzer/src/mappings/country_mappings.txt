@@ -1,0 +1,15 @@
+Balinese: Bali
+Bolivian: Bolivia
+Brazilian: Brazil
+Costa Rican: Costa Rican
+Dominican: Dominican Republic
+Salvadorean: El Salvador
+Ethiopian: Ethiopia
+Guatemalan: Guatemala
+Indian: India
+Kenyan: Kenya
+Malian: Mali
+Mexican: Mexico
+Panamanian: Panama
+Peruvian: Peru
+Sumatran: Sumatra
